@@ -1,0 +1,10 @@
+education_id,education_required,education_rank
+1,"Master's degree",7
+2,"Bachelor's degree",6
+3,"High school diploma or equivalent",2
+4,"Doctoral or professional degree",8
+5,"Postsecondary nondegree award",4
+6,"See How to Become One",9
+7,"Associate's degree",5
+8,"No formal educational credential",1
+9,"Some college, no degree",3
