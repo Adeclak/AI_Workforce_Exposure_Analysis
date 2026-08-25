@@ -1,0 +1,51 @@
+occupation_title,ai_exposure_llm_human,ai_exposure_aioe,exposure_divergence
+"Fitness trainers and instructors",0.235,-2.112,2.347
+"Dancers and choreographers",0.107,-2.123,2.2300000000000004
+"Athletes and sports competitors",0,-1.814,1.814
+Roofers,0,-1.753,1.753
+"Painters, construction and maintenance",0.029,-1.588,1.617
+"Drywall installers, ceiling tile installers, and tapers",0.01,-1.594,1.604
+"Massage therapists",0.185,-1.41,1.595
+Models,0.4,-1.122,1.5220000000000002
+"Insulation workers",0.073,-1.444,1.517
+"Flooring installers and tile and stone setters",0.017,-1.46,1.4769999999999999
+"Janitors and building cleaners",0.028,-1.436,1.464
+Glaziers,0.031,-1.389,1.42
+Carpenters,0.089,-1.324,1.413
+Firefighters,0.088,-1.32,1.4080000000000001
+"Heavy vehicle and mobile equipment service technicians",0.121,-1.275,1.396
+"Heavy and tractor-trailer truck drivers",0.173,-1.149,1.322
+"Food preparation workers",0.046,-1.226,1.272
+"Welders, cutters, solderers, and brazers",0.039,-1.198,1.2369999999999999
+"Sheet metal workers",0.039,-1.175,1.214
+"Logging workers",0.115,-1.092,1.207
+"Painting and coating workers",0.02,-1.18,1.2
+"Plumbers, pipefitters, and steamfitters",0.064,-1.121,1.185
+"Postal service workers",0.25,-0.923,1.173
+"Waiters and waitresses",0.224,-0.948,1.172
+"Forest and conservation workers",0.065,-1.064,1.129
+"Construction equipment operators",0.029,-1.095,1.1239999999999999
+Boilermakers,0,-1.098,1.098
+"General maintenance and repair workers",0.078,-1.014,1.092
+"Marriage and family therapists",0.278,1.367,1.089
+"Electrical power-line installers and repairers",0,-1.081,1.081
+"Arbitrators, mediators, and conciliators",0.371,1.432,1.061
+Geographers,0.375,1.436,1.061
+"Solar photovoltaic installers",0.11,-0.944,1.054
+"Automotive service technicians and mechanics",0.073,-0.955,1.028
+"Wind turbine technicians",0.043,-0.971,1.014
+"Diesel service technicians and mechanics",0,-1.01,1.01
+Butchers,0.026,-0.971,0.997
+"Chemical engineers",0.346,1.341,0.995
+"Financial managers",0.454,1.446,0.992
+"Heating, air conditioning, and refrigeration mechanics and installers",0.14,-0.849,0.989
+"Postsecondary education administrators",0.476,1.461,0.9850000000000001
+Actuaries,0.537,1.516,0.979
+"Compensation, benefits, and job analysis specialists",0.474,1.441,0.9670000000000001
+"Accountants and auditors",0.52,1.482,0.962
+"Pest control workers",0.229,-0.726,0.955
+"Financial examiners",0.576,1.526,0.9500000000000001
+"Middle school teachers",0.341,1.286,0.9450000000000001
+"Elevator and escalator installers and repairers",0.079,-0.86,0.939
+"Management analysts",0.5,1.432,0.9319999999999999
+Electricians,0.146,-0.78,0.926
